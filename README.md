@@ -1,4 +1,4 @@
-# Learning SSML
+# Learning SSML (Speech Synthesis Markup Language)
 
 Besides just inserting variables into speech, you can edit: speed, pitch, emphasis, read-as, audio, pauses/breaks, and even play sounds in parallel with specified time delays! ([and more](https://developers.google.com/assistant/actions/reference/ssml))
 
